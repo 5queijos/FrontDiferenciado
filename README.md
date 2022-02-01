@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @5Queijos;
-- 🌱 I’m currently learning C language;
-- 📫 From Brazil-RJ.
+- 📚 I’m currently learning C language;
+- 🌎 From Brazil-RJ.
